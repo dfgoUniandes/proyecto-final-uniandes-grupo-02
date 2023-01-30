@@ -13,6 +13,8 @@ https://github.com/jepachecor/ms-auth
 
 ## Repositorios Pruebas
 
-Pruebas automatizadas E2E Fronten Web
+* Pruebas automatizadas E2E Frontend Web
 https://github.com/dfgoUniandes/pfu-grupo-02-pa-web
 
+* Pruebas automatizadas E2E Frontend Movil
+https://github.com/dfgoUniandes/pfu-grupo-02-pa-movil
