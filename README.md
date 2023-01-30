@@ -12,3 +12,7 @@ https://github.com/jepachecor/ms-skeleton
 https://github.com/jepachecor/ms-auth
 
 ## Repositorios Pruebas
+
+Pruebas automatizadas E2E Fronten Web
+https://github.com/dfgoUniandes/pfu-grupo-02-pa-web
+
