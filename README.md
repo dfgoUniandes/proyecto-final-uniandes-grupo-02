@@ -3,18 +3,20 @@ Repositorio para proyecto final de MISO - Grupo 02
 
 ## Repositorio Front-end
 
-https://github.com/e-rativa/pfu-grupo-02-frontend 
+https://github.com/grupo-2-dermoapp/frontend
 
 ## Repositorios Backend
 
-https://github.com/jepachecor/ms-skeleton
+* Gateway
+https://github.com/grupo-2-dermoapp/gateway
 
-https://github.com/jepachecor/ms-auth
+* Microservicio Autorización
+https://github.com/grupo-2-dermoapp/ms-auth
 
 ## Repositorios Pruebas
 
 * Pruebas automatizadas E2E Frontend Web
-https://github.com/dfgoUniandes/pfu-grupo-02-pa-web
+https://github.com/grupo-2-dermoapp/paWeb
 
 * Pruebas automatizadas E2E Frontend Movil
-https://github.com/dfgoUniandes/pfu-grupo-02-pa-movil
+https://github.com/grupo-2-dermoapp/paMovil
