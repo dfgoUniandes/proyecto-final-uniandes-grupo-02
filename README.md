@@ -13,6 +13,9 @@ https://github.com/grupo-2-dermoapp/gateway
 * Microservicio Autorización
 https://github.com/grupo-2-dermoapp/ms-auth
 
+* Microservicio Consultas Medicas
+https://github.com/grupo-2-dermoapp/ms-medical-cases
+
 ## Repositorios Pruebas
 
 * Pruebas automatizadas E2E Frontend Web
