@@ -3,7 +3,7 @@ Repositorio para proyecto final de MISO - Grupo 02
 
 ## Repositorio Front-end
 
-Codigo Front-end Web y Movil: https://github.com/grupo-2-dermoapp/frontend
+* Codigo Front-end Web y Movil: https://github.com/grupo-2-dermoapp/frontend
 
 ## Repositorios Backend
 
