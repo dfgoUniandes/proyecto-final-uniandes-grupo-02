@@ -15,6 +15,8 @@ Repositorio para proyecto final de MISO - Grupo 02
 
 * Microservicio Historias Clinicas: https://github.com/grupo-2-dermoapp/ms-clinical-history
 
+* Microservicio Agenda: https://github.com/grupo-2-dermoapp/ms-agenda
+
 ## Repositorios Pruebas
 
 * Pruebas automatizadas E2E Frontend Web: https://github.com/grupo-2-dermoapp/paWeb
